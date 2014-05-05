@@ -1,0 +1,7 @@
+name: AnvilFall
+main: me.badboy123101.AnvilFall.Main
+version: 1.0
+commands:
+   basecommand:
+    description: Base command for Mini-Game Shell.
+      usage: /<command> help
